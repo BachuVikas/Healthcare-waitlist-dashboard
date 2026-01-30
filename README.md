@@ -29,7 +29,7 @@ The dashboard helps identify bottlenecks and provides actionable insights for be
 ## 🖼️ Screenshots
 ### Overview
 
-
+![Dashboard Overview](screenshots/overview.png)
 
 ---
 
