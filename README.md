@@ -23,6 +23,26 @@ The dashboard helps identify bottlenecks and provides actionable insights for be
 - Designed scalable data models to support near real-time insights  
 - Improved resource allocation and service delivery (recognized internally)
 
+
 ---
 
-## 📁 Repository Structure
+## 🖼️ Screenshots
+### Overview
+
+
+
+---
+
+## ▶️ How to Use
+1. Open `PowerBI/Healthcare_Waitlist.pbix` in **Power BI Desktop**
+2. If required, update query paths to your local `data/` folder
+3. Refresh the dataset to load data
+4. Interact with filters and visuals to explore insights
+
+---
+
+## 🎯 Business Impact
+- Improved visibility into patient waiting times  
+- Supported data-driven decisions for hospital operations  
+- Enhanced efficiency in scheduling and resource planning
+
